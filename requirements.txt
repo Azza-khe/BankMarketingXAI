@@ -1,0 +1,13 @@
+
+streamlit
+pandas
+numpy
+scikit-learn
+ucimlrepo
+plotly
+xgboost
+shap
+lime
+fastapi
+uvicorn[standard]
+matplotlib
